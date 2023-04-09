@@ -1,0 +1,67 @@
+body {
+
+    background-color: #F5F5F5;
+
+
+}
+
+
+.textin {
+
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    font-size: 2em;
+
+}
+
+.cadastro {
+
+    text-align: center;
+}
+
+form button {
+
+    font-size: 2em;
+    border: none;
+    background-color: #003087;
+    color: white;
+    cursor: pointer;
+    
+
+}
+
+#nomeempresa {
+
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: left;
+}
+
+#cnpf {
+
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: left;
+
+}
+
+#email{
+
+    text-align: left;
+}
+
+#telef {
+
+    text-align: left;
+}
+
+#obs {
+
+    padding-left: 10%;
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+
+}

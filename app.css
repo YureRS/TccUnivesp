@@ -49,7 +49,7 @@ form button:hover {
 .firstbox {
 
     text-align: center;
-    background: rgb(83, 82, 82);
+    background: rgb(226, 225, 225);
 
 }
 
@@ -64,6 +64,7 @@ form button:hover {
 a:link {
 
     color:black;
+    text-decoration: none;
 }
 
 a:visited {
@@ -79,3 +80,85 @@ a:visited {
     background-color: #ffffff;
     justify-content: center;
 }
+
+.buttonvsindex button {
+
+    background-color: #003087;
+    color: #ffffff;
+    text-decoration: none;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-color:#ffffff;
+    
+}
+
+
+body {
+
+    text-decoration: none;
+}
+
+.buttonvsindex i {
+
+    color:white;
+    
+}
+
+.buttonvsindex a {
+
+    color: white;
+}
+
+.cadstop {
+
+    background-color: gray;
+    padding-top: 2%;
+    padding-bottom: 2% ;
+      
+  
+}
+
+.falogin {
+
+    text-align: right;
+    
+    
+}
+
+.falogin button {
+
+    cursor: pointer;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    margin-right: 1%;
+    background-color: gray;
+    border-color: white;
+    
+}
+
+
+
+.falogin a {
+
+    color: white;
+
+}
+
+
+.textestamos {
+
+    text-align: center;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    
+}
+
+
+
