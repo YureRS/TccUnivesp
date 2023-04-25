@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+    <html lang="pt-br">
+
+        <head>
+
+
+                <meta charset="utf-8">
+                <title> Benefício </title>
+                <link rel="stylesheet" type="text/css" href="appben.css">
+                <script src="https://kit.fontawesome.com/7e9293279d.js" crossorigin="anonymous"></script>
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+                <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                <link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@500&display=swap" rel="stylesheet">
+
+
+
+        </head>
+
+        <body>
+
+            <div class="toptext">
+                <p> Auxílio Acidente</p>
+            </div>
+
+            <div class="textcentral">
+
+                <p>O que é o Auxílio Acidente? <br> <br>
+                   O Auxílio Acidente é um benefício de caráter indenizatório devido à sequela de acidente de qualquer natureza para os contribuintes do INSS
+                   na modalidade de empregado, inclusive o doméstico, trabalhador avulso e segurado especial. Embora não se exija carência para o benefício, 
+                   para reconhecimento do direito, é necessário que no momento do acidente haja a qualidade de segurado. (Instrução Normativa PRES/INSS128 de 28/03/2023).
+  <br> <br>     
+                    Como solicitar o Auxílio Doença    <br> <br> 
+
+                  O benefício pode ser solicitado através do site meu.inss.gov.br, aplicativo MeuINSS ou através do telefone 135. 
+                  A Central 135 funciona de segunda a sábado, das 7h às 22h. A ligação é gratuita.  <br> <br>
+                  Posso trabalhar e receber o Auxílio Acidente? <br> <br>
+                  Sim. O Auxílio Acidente é um benefício de caráter indenizatório, e por isso, embora pressuponha a existência de sequelas decorrentes de acidente, 
+                  estas não implicam em incapacidade para o trabalho. Por isso, é possível receber o benefício e exercer atividade remunerada simultaneamente. </p>                   
+              
+            </div>
+
+            <script> /*script para criar o botão voltar */
+                function goBack() {
+                    window.history.back()
+                }
+                </script>
+
+            <div class="btnbeneficio">
+
+                <button onclick="goBack()"><a href="#"></a>Voltar para Página Anterior</button>
+                
+            </div>
+
+
+        </body>
+
+        </html>
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
