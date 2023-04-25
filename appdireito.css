@@ -114,3 +114,22 @@ img {
     padding-left: 30%;
     
 }
+
+.voltar button{
+
+    color: white;
+    text-align: center;
+    border: none;
+    background-color: #003087;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+
+
+}
+
+.voltar button:hover {
+
+    background-color: gray;
+
+}
