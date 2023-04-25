@@ -94,6 +94,12 @@ a:visited {
     
 }
 
+.buttonvsindex button:hover {
+
+    background-color: #000000;
+    cursor: pointer
+}
+
 
 body {
 
@@ -116,13 +122,17 @@ body {
     background-color: gray;
     padding-top: 2%;
     padding-bottom: 2% ;
-      
+    
+    
   
 }
+
+
 
 .falogin {
 
     text-align: right;
+    margin-right: 20%;
     
     
 }
@@ -139,6 +149,12 @@ body {
     border-color: white;
     
 }
+
+.falogin button:hover {
+
+    background-color: black;
+}
+
 
 
 
@@ -159,6 +175,16 @@ body {
     
     
 }
+
+
+.toplink a:hover {
+
+    background-color: #578cf0;
+    
+}
+
+
+
 
 
 

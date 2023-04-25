@@ -25,6 +25,12 @@
 
             <div class="cadastro">
 
+                <script> /*script para criar o botão voltar */
+                    function goBack() {
+                        window.history.back()
+                    }
+                    </script>
+
                 <form action="#" method="post">
                     
                     <input type="text" name="nomeempresa" id="nomeempresa" placeholder="Nome da Empresa" required><br><br>
@@ -35,7 +41,7 @@
                     <input type="number" name="cel" id="cel" placeholder="Celular: ( )" required> <br><br>
                     <input type="text" name="obs" id="obs" placeholder="Observações" required><br><br><br><br>
 
-                    <button get="#"> Cancelar</button>
+                    <button onclick="goBack()"> Cancelar</button>
                     <button get="#"> Cadastrar</button>
                     
                 </form>  
