@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+    <html lang="pt-br">
+
+        <head>
+
+
+                <meta charset="utf-8">
+                <title>Empresas</title>
+                <link rel="stylesheet" type="text/css" href="app.css">
+                <script src="https://kit.fontawesome.com/7e9293279d.js" crossorigin="anonymous"></script>
+                <meta name="viewport" content="widht-device-widht, initial-scale=1.0">
+
+
+
+        </head>
+
+        <body>
+            
+            <div class="firstbox">
+
+                <div class="toplink">
+                    <br><br>
+                     <a href="index.html"> Para Cidadão </a> │ <a href="login.html"> Para Empresas</a> │ <a href="login.html"> Para INSS MTE </a>
+                     <br><br><br>
+                </div>
+                
+
+            </div>
+
+                <div class="boxsup"> 
+
+                <div class="texsup">  
+
+                    <br><br>
+                    <b> Aqui você poderá Cadastrar Vagas de Emprego ou Estágio para Pessoa com Deficiência</b><br>
+                    <b> ou ainda conhecer mais sobre a Reabilitação Profissional</b><br>
+                                                     
+                    <h1> Empresa: Cadastre suas Vagas ou Conheça mais sobre a Acordos de Cooperação Técnica com a Reabilitação Profissional </h1>
+
+                    <br><br>
+                    
+                    <div class="buttonvsindex">
+                        
+                            <button> <a href="EmpresaCadastrarVagas.html"> <i class="fa-solid fa-wheelchair-move"></i>     Cadastre Vagas     </a></button>
+                        
+                            <button><a href="EmpInfoRP.html"> <i class="fa-solid fa-rocket"></i> Reabilitação Profissional </a></button>
+                        
+                    </div>
+                    
+
+                    <br><br><br>
+
+                </div>
+
+            </div>
+            
+            <div class="opcarreira">
+                <br><br>
+                <b> Sobre Lei de Cotas</b><br><br>
+            </div>
+            
+            <br><br>
+
+            <div class="textplat">
+                <b> O objetivo geral desta plataforma consiste<br> na facilitação da contratação de Pessoas com Deficiência (PcD)<br></b>
+                
+                <ul>
+
+                    <li>A Lei que trata das cotas de vagas de emprego para a Pessoa com Deficiência ou Reabilitados do INSS é a Lei 8213 de 24/07/91. Conforme o artigo 93 da referida lei, toda empresa com 100 (cem) ou mais empregados, deve reservar parcela de vagas para contratação de PcD ou reabilitados na seguinte proporção: </li>
+                    <li>Até 200 empregados: 2%</li>
+                    <li>De 201 a 500 empregados: 3%</li>
+                    <li>De 501 a 1000 empregados: 4%</li>
+                    <li>De 1001 em diante: 5%</li>
+                
+                </ul>
+            </div>
+            <br><br><br>
+
+            <div class="textestamos">
+
+                <b> Estamos ao seu lado para facilitar a contratação de Pessoas com Deficiência</b>
+                
+            </div>
+
+           
+        <script> /*script para criar o botão voltar */
+            function goBack() {
+                window.history.back()
+            }
+            </script>
+
+        <div class="btnbeneficio">
+
+            <button onclick="goBack()"><a href="index.html"></a>Voltar para Página Anterior</button>
+
+        </div>
+
+        </body>
+
+
+
+    </html>
